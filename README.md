@@ -1,4 +1,4 @@
-你好，我有一些关于上学期AI这节课的成绩的疑惑。关于您给我的评语中写到的问题，我想给你解释一下。可能是我提交的作业中标注的不太清楚，所以我整合了一下我项目中所做的工作，希望你帮我看一下是不是可以能不能提高该门课的成绩。
+
 
 The following is an introduction to the modified parts of the code in my project
 
